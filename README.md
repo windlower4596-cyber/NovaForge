@@ -114,17 +114,29 @@ NovaForge/
 └── test_backend.py           # Automated unit testing suite validating backend APIs
 
 
-##🚀 1-Click Execution Method (Recommended for Examiners)
+## ⚙️ Installation & Setup
+
+### 📋 Prerequisites
+Before running the application, please ensure you have the following installed on your system:
+* **Python 3.10+**
+* **Node.js (v18+) & npm**
+
+---
+
+### 🚀 1-Click Execution Method (Recommended for Examiners)
 
 1. **Clone the repository** to your local machine:
 ```bash
-git clone https://github.com/windlower4596-cyber/NovaForge.git
+git clone [https://github.com/windlower4596-cyber/NovaForge.git](https://github.com/windlower4596-cyber/NovaForge.git)
 cd NovaForge
+Double-click the startup script located in the root directory:
 
 Bash
 start.bat
+This will automatically open the required terminals, start your Python background agents, launch the frontend server, and completely prepare the environment framework.
 
-Access the application dashboard: Open your web browser and click the link below to open the interface:
+Access the application dashboard:
+Open your web browser and click the link below to open the interface:
 
 👉 http://localhost:5173
 
