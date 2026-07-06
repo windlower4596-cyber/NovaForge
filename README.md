@@ -114,25 +114,23 @@ NovaForge/
 └── test_backend.py           # Automated unit testing suite validating backend APIs
 
 
-## ⚙️ Installation
+🚀 1-Click Execution Method (Recommended for Examiners)
 
-```bash
-git clone <repo>
-cd zipnova
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+1. **Clone the repository** to your local machine:
+   ```bash
+   git clone [https://github.com/windlower4596-cyber/NovaForge.git](https://github.com/windlower4596-cyber/NovaForge.git)
+   cd NovaForge
+Double-click the startup script located in the root directory:
 
-```bash
-uvicorn app.main:app --reload
-```
+Bash
+start.bat
+This will automatically launch your isolated micro-agents, resolve necessary project dependencies, and boot both the backend server and frontend development views simultaneously.
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
+Access the application dashboard:
+Open your web browser and click the link below to open the app:
+
+👉 http://localhost:5173 (or http://localhost:3000)
+
 
 ## 🔮 Future Improvements
 
