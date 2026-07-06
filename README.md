@@ -14,6 +14,7 @@ NovaForge AI is a multi-agent AI orchestration platform designed to automaticall
 ---
 
 # 🚀 Overview
+<img width="947" height="486" alt="Image" src="https://github.com/user-attachments/assets/73a78675-5fe6-4c42-aeb4-49649c27da7b" />
 
 NovaForge addresses the limitations of single-prompt AI workflows by implementing a structured, collaborative multi-agent simulation. The platform divides complex goals into specialized sub-tasks managed by individual, role-specific agents. A centralized coordinator manages the execution sequence, routing data between agents and synthesizing their outputs into a final product. This mimics a real-world software engineering and product team, reducing hallucination rates and significantly increasing the logical depth of generated projects.
 
@@ -33,6 +34,7 @@ The system relies heavily on the Model Context Protocol (MCP) to provide agents 
 # ✨ Key Features
 
 ## 🤖 Multi-Agent Workflow
+<img width="955" height="488" alt="Image" src="https://github.com/user-attachments/assets/5929ca72-ba95-4ec1-9994-6da5af50ce2a" />
 
 **Coordinator ➜ Inventor ➜ Engineer ➜ Economist ➜ Critic ➜ Pitch Generator**
 
