@@ -196,5 +196,5 @@ http://localhost:5173
 
 ---
 
-> *Transforming ideas into production-ready innovation through collaborative AI agents.*
+> **Transforming ideas into production-ready innovation through collaborative AI agents.**
 
