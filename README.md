@@ -163,7 +163,7 @@ cd NovaForge
 Run:
 
 ```bash
-start.bat
+ ./start.bat
 ```
 
 This automatically launches the backend, frontend, and supporting services.
